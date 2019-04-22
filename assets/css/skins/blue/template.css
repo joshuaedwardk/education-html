@@ -3278,6 +3278,11 @@ body.maintenance-page {
   color: #4582FF;
   text-align: center;
 }
+.team-teaser-2 .team-date {
+  font-size: 14px;
+  color: #4582FF;
+  text-align: center;
+}
 .team-teaser-1 .team-body {
   position: relative;
   margin-top: 10px;
@@ -3356,7 +3361,7 @@ body.maintenance-page {
 }
 .team-teaser-2 .team-body {
   position: relative;
-  text-align: center;
+
   padding: 10px 15px 0;
 }
 .team-teaser-2 .socials {
@@ -3401,7 +3406,7 @@ body.maintenance-page {
 }
 .team-list .team-block .team-content {
   padding: 20px;
-  width: 65%;
+
   float: left;
 }
 @media (max-width: 600px) {

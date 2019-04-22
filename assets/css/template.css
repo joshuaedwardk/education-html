@@ -3278,6 +3278,16 @@ body.maintenance-page {
   color: #4582FF;
   text-align: center;
 }
+.team-teaser-2 .team-date {
+  font-size: 14px;
+  color: #4582FF;
+  text-align: center;
+}
+.team-teaser-2 .team-email a{
+  font-size: 14px;
+  color: #4582FF;
+  text-align: center;
+}
 .team-teaser-1 .team-body {
   position: relative;
   margin-top: 10px;
@@ -3356,7 +3366,7 @@ body.maintenance-page {
 }
 .team-teaser-2 .team-body {
   position: relative;
-  text-align: center;
+
   padding: 10px 15px 0;
 }
 .team-teaser-2 .socials {
@@ -3401,7 +3411,7 @@ body.maintenance-page {
 }
 .team-list .team-block .team-content {
   padding: 20px;
-  width: 65%;
+
   float: left;
 }
 @media (max-width: 600px) {
@@ -5921,6 +5931,7 @@ body.maintenance-page {
   background-attachment: scroll !important;
 }
 
+
 .socials {
   display: inline-block;
   text-align: left;
@@ -5959,6 +5970,9 @@ body.maintenance-page {
   font-size: 12px;
 }
 .socials a i.fa-facebook-square, .socials a i.fa-facebook {
+  background: #3b5998;
+}
+.socials a i.fa-facebook-square, .socials a i.fa-email {
   background: #3b5998;
 }
 .socials a i.fa-twitter, .socials a i.fa-twitter-square {
@@ -9242,8 +9256,22 @@ ul[data-drupal-views-infinite-scroll-pager].pager a:hover, ul[data-drupal-views-
   max-width: 800px;
   margin: 0 auto;
   margin-top: 8px;
-  font-size: 14px;
+  font-size: 16px;
   clear: both;
+}
+
+.widget.gsc-heading.style-default .title-desc .action a {
+  color: #4582FF;
+  text-transform: uppercase;
+  font-size: 12px;
+  letter-spacing: 1px;
+  font-family: "Raleway",sans-serif;
+  font-weight: 700;
+  -webkit-transition: color 0.35s;
+  -o-transition: color 0.35s;
+  transition: color 0.35s;
+  -moz-transition: color 0.35s;
+  -ms-transition: color 0.35s;
 }
 .widget.gsc-heading.style-default .title-desc p {
   margin-bottom: 0;

@@ -35,7 +35,7 @@ textarea, select {
 }
 
 input[type="text"] {
-  max-width: 300px;
+  /*max-width: 300px;*/
 }
 
 .form-item {
