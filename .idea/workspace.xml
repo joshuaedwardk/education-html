@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ee9e0c6-e057-495d-aebf-a2fcadcef610" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/affinity-partners.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/award.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/join.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/award.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/events-test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/events.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nav.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/skins/blue/template.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/skins/blue/template.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/template.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/template.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/update.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/update.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/awards.html" beforeDir="false" afterPath="$PROJECT_DIR$/awards.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classified.html" beforeDir="false" afterPath="$PROJECT_DIR$/classified.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/join.html" beforeDir="false" afterPath="$PROJECT_DIR$/join.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/register.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tax-research.html" beforeDir="false" afterPath="$PROJECT_DIR$/tax-research.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/events.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/events.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="379" column="80" lean-forward="true" selection-start-line="379" selection-start-column="80" selection-end-line="379" selection-end-column="80" />
+            <state relative-caret-position="617">
+              <caret line="972" column="53" selection-start-line="972" selection-start-column="53" selection-end-line="972" selection-end-column="53" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -47,6 +31,15 @@
                 <element signature="n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/skins/blue/template.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-212">
+              <caret line="4077" column="14" lean-forward="true" selection-start-line="4077" selection-start-column="14" selection-end-line="4077" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -64,7 +57,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>nstp</find>
       <find>.widget.gsc-heading.style-default .title-desc {</find>
       <find>classified</find>
       <find />
@@ -94,6 +86,7 @@
       <find>link</find>
       <find>fa fa-li</find>
       <find>early b</find>
+      <find>webinar-</find>
     </findStrings>
     <replaceStrings>
       <replace>National Society of Tax Professionals Overview</replace>
@@ -187,6 +180,32 @@
             <path>
               <item name="education-html" type="b2602c69:ProjectViewProjectNode" />
               <item name="education-html" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="education-html" type="b2602c69:ProjectViewProjectNode" />
+              <item name="education-html" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="education-html" type="b2602c69:ProjectViewProjectNode" />
+              <item name="education-html" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="education-html" type="b2602c69:ProjectViewProjectNode" />
+              <item name="education-html" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="skins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="education-html" type="b2602c69:ProjectViewProjectNode" />
+              <item name="education-html" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="skins" type="462c0819:PsiDirectoryNode" />
+              <item name="blue" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -282,12 +301,12 @@
       <workItem from="1562000913788" duration="589000" />
       <workItem from="1562012169846" duration="4895000" />
       <workItem from="1562081629794" duration="167000" />
-      <workItem from="1562081819133" duration="785000" />
+      <workItem from="1562081819133" duration="2647000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="153818000" />
+    <option name="totallyTimeSpent" value="155680000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -748,13 +767,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/skins/blue/template.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79611">
-          <caret line="4683" selection-start-line="4683" selection-end-line="4683" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="841">
@@ -799,10 +811,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/skins/blue/template.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-212">
+          <caret line="4077" column="14" lean-forward="true" selection-start-line="4077" selection-start-column="14" selection-end-line="4077" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/events.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="379" column="80" lean-forward="true" selection-start-line="379" selection-start-column="80" selection-end-line="379" selection-end-column="80" />
+        <state relative-caret-position="617">
+          <caret line="972" column="53" selection-start-line="972" selection-start-column="53" selection-end-line="972" selection-end-column="53" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />

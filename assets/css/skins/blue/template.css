@@ -4094,6 +4094,20 @@ body.maintenance-page {
   font-weight: 700;
   font-size: 12px;
 }
+.course-block .course-content .content-action .right .on-demand-price {
+  display: inline-block;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  background: #4582FF;
+  line-height: 20px;
+  padding: 3px 10px;
+  color: #fff;
+  font-weight: 700;
+  font-size: 12px;
+}
 .course-block.featured-course {
   background: #fff;
   border-radius: 6px;
