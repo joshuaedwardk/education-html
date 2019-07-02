@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ee9e0c6-e057-495d-aebf-a2fcadcef610" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/css/skins/blue/template.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/skins/blue/template.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/events.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events-test.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/events.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="617">
-              <caret line="972" column="53" selection-start-line="972" selection-start-column="53" selection-end-line="972" selection-end-column="53" />
+            <state relative-caret-position="515">
+              <caret line="198" column="49" lean-forward="true" selection-end-line="1295" selection-end-column="7" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -35,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/skins/blue/template.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-212">
-              <caret line="4077" column="14" lean-forward="true" selection-start-line="4077" selection-start-column="14" selection-end-line="4077" selection-end-column="14" />
+            <state relative-caret-position="111">
+              <caret line="4096" column="57" lean-forward="true" selection-end-line="12989" />
             </state>
           </provider>
         </entry>
@@ -192,21 +191,6 @@
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="education-html" type="b2602c69:ProjectViewProjectNode" />
-              <item name="education-html" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="skins" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="education-html" type="b2602c69:ProjectViewProjectNode" />
-              <item name="education-html" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="skins" type="462c0819:PsiDirectoryNode" />
-              <item name="blue" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -301,16 +285,15 @@
       <workItem from="1562000913788" duration="589000" />
       <workItem from="1562012169846" duration="4895000" />
       <workItem from="1562081629794" duration="167000" />
-      <workItem from="1562081819133" duration="2647000" />
+      <workItem from="1562081819133" duration="2826000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="155680000" />
+    <option name="totallyTimeSpent" value="155859000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.119936034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -811,17 +794,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/skins/blue/template.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-212">
-          <caret line="4077" column="14" lean-forward="true" selection-start-line="4077" selection-start-column="14" selection-end-line="4077" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/events.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="617">
-          <caret line="972" column="53" selection-start-line="972" selection-start-column="53" selection-end-line="972" selection-end-column="53" />
+        <state relative-caret-position="515">
+          <caret line="198" column="49" lean-forward="true" selection-end-line="1295" selection-end-column="7" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -830,6 +806,13 @@
             <element signature="n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/skins/blue/template.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="4096" column="57" lean-forward="true" selection-end-line="12989" />
         </state>
       </provider>
     </entry>
