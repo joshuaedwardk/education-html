@@ -4023,10 +4023,10 @@ body.maintenance-page {
   overflow: hidden;
 }
 .course-block .course-content .title {
-  margin-bottom: 0;
-  line-height: 22px;
-  font-size: 16px;
-  min-height: 45px;
+  margin-bottom: 20px;
+  line-height: 18px;
+  font-size: 14px;
+  min-height: 110px;
 }
 .course-block .course-content .teacher {
   font-size: 12px;

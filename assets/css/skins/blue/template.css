@@ -3995,7 +3995,7 @@ body.maintenance-page {
 .course-block .image .video-link {
   position: absolute;
   top: 15px;
-  right: 45px;
+  right: 70px;
   color: rgba(255, 255, 255, 0.8);
   z-index: 11;
   font-size: 18px;
@@ -4018,18 +4018,26 @@ body.maintenance-page {
   overflow: hidden;
 }
 .course-block .course-content .title {
-  margin-bottom: 0;
-  line-height: 22px;
-  font-size: 16px;
-  min-height: 45px;
+  margin-bottom: 5px;
+  margin-top: 10px;
+  line-height: 17px;
+  font-size: 13px;
+  min-height: 102px;
 }
 .course-block .course-content .teacher {
   font-size: 12px;
   color: #686f7a;
 }
+/*.course-block .course-content .date {*/
+/*  color: #686f7a;*/
+/*  font-weight: 700;*/
+/*  font-size: 14px;*/
+
+/*}*/
 .course-block .course-content .CPE {
   font-size: 12px;
   color: #686f7a;
+  font-weight: 700;
 }
 .course-block .course-content .content-action {
   margin: 5px 0 0;
@@ -4047,7 +4055,7 @@ body.maintenance-page {
 .course-block .course-content .content-action .left a {
   color: #4582FF;
   font-weight: 700;
-  font-size: 13px;
+  font-size: 12px;
   text-transform: uppercase;
 }
 .course-block .course-content .content-action .left a:hover {
@@ -4066,7 +4074,22 @@ body.maintenance-page {
   -o-border-radius: 5px;
   background: #04D2C8;
   line-height: 20px;
-  padding: 0 6px;
+  padding: 3px 10px;
+  color: #fff;
+  font-weight: 700;
+  font-size: 12px;
+}
+
+.course-block .course-content .content-action .right .webinar-price {
+  display: inline-block;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  background: #990000;
+  line-height: 20px;
+  padding: 3px 10px;
   color: #fff;
   font-weight: 700;
   font-size: 12px;
@@ -4657,6 +4680,8 @@ body.maintenance-page {
   margin: 0;
   background: none;
 }
+
+
 .view-courses-featured-2 .tab-lists-content .content-inner .course-block .course-content {
   background: none;
 }
@@ -10636,7 +10661,7 @@ ul[data-drupal-views-infinite-scroll-pager].pager a:hover, ul[data-drupal-views-
   padding: 30px;
 }
 .gsc-tabs .tabs_wrapper.tabs_vertical .nav-tabs {
-  width: 25%;
+  width: 20%;
   float: left;
 }
 .gsc-tabs .tabs_wrapper.tabs_vertical .nav-tabs > li {
@@ -10648,6 +10673,7 @@ ul[data-drupal-views-infinite-scroll-pager].pager a:hover, ul[data-drupal-views-
   width: 100%;
   margin-right: 0;
   padding-right: 0;
+  text-align: center;
 }
 .gsc-tabs .tabs_wrapper.tabs_vertical .nav-tabs > li a {
   width: 100%;
@@ -10656,7 +10682,7 @@ ul[data-drupal-views-infinite-scroll-pager].pager a:hover, ul[data-drupal-views-
   margin-bottom: 0;
 }
 .gsc-tabs .tabs_wrapper.tabs_vertical .tab-content {
-  width: 75%;
+  width: 80%;
   float: left;
   padding-left: 15px;
 }
